@@ -56,7 +56,7 @@ Failures:
        'a100' is not a valid binary number!
      # ./spec/part2_spec.rb:53:in `block (2 levels) in <top (required)>'
 
-Finished in 0.03883 seconds (files took 0.15479 seconds to load)
+Finished in 0.04125 seconds (files took 0.16554 seconds to load)
 34 examples, 1 failure
 
 Failed examples:
